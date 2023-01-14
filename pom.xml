@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>mx.voxelout</groupId>
-	<artifactId>ldap-connector</artifactId>
+	<artifactId>REST-template</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>ldap-connector</name>
-	<description>LDAP-LDAPS connector</description>
+	<name>REST-template</name>
+	<description>REST-template</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
